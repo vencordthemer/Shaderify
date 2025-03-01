@@ -4,7 +4,11 @@ A Minecraft overhaul with shaders and lag.
 ## Important info
 You may need a beefy pc to run this, but like [Easy Optimization](https://modrinth.com/modpack/easy-optimizer) there are many optimization mods.
 
+On 1.21.3  **DO NOT** update Sodium! This will break Iris Shaders (the main feature of this modpack)
 
+## Bugs and issues
+
+Open a issue or feature request [here](https://github.com/vencordthemer/Shaderify/issues)
 
 
 <details>
